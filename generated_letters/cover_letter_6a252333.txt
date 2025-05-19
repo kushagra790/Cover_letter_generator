@@ -1,0 +1,27 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+91 7905366063
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juspay
+[Address (if known)]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Frontend Developer position at Juspay.  As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to contribute my developing skills and passion for technology to a forward-thinking company like yours.
+
+Although my graduation is in June 2026, I believe my coursework, projects, and internship experience have provided me with a strong foundation in software development and a readiness to learn quickly and adapt to new challenges. My academic focus has instilled a solid understanding of core programming concepts in languages like C, Java, and Python. I am particularly drawn to frontend development and am eager to further refine my skills in this area.
+
+My project experience, including the development of a Sign Language Detection System using Python and Machine Learning, demonstrates my ability to apply technical knowledge to solve real-world problems.  Furthermore, my experience with Kubernetes and AWS through my Cloud Computing project highlights my familiarity with cloud technologies and my ability to manage complex systems.  My internship at Technical Guftgu provided valuable practical experience in cloud computing, Linux, and Ubuntu, further strengthening my technical skillset.
+
+I am a proactive learner, as demonstrated by my completion of relevant online courses on database management and design thinking.  My involvement in extracurricular activities, including coordinating a two-year induction program and participating in E-CELL, has honed my leadership, teamwork, and communication skills.
+
+I am confident that my passion for technology, combined with my growing technical skills and eagerness to learn, makes me a suitable candidate for this position. I am eager to learn more about this opportunity and discuss how my skills and enthusiasm can contribute to Juspay's success. Thank you for your time and consideration.
+
+Sincerely,
+
+Kushagra Singh

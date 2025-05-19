@@ -1,0 +1,26 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juspay
+
+[Company Address (if known)]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Recurring Frontend Developer position at Juspay. As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to apply my developing skills and passion for front-end development to a challenging and innovative role.  My expected graduation date is June 2026.
+
+Although I am still pursuing my degree, I have already gained valuable experience in cloud computing, including working with AWS through my participation in a Job Oriented Value Added Course with Technical Guftgu. This experience, coupled with my coursework in C, Java, and Python, has provided me with a strong foundation in software development principles and best practices. I am particularly drawn to front-end development and am confident in my ability to quickly learn and contribute to your team's success.
+
+My project work, including the development of a Sign Language Detection System using Python and machine learning, demonstrates my ability to apply technical skills to solve real-world problems.  Furthermore, my experience with Kubernetes reinforces my understanding of cloud-based deployments and management.
+
+I am particularly interested in the recurring aspect of this role, as I believe my strong problem-solving skills and dedication to continuous learning will allow me to excel in a dynamic environment that requires adapting to evolving customer needs. I am a proactive and collaborative team player, as evidenced by my involvement in coordinating the 2-year induction program at my university and my active participation in E-CELL.
+
+I am eager to learn more about this opportunity and discuss how my skills and enthusiasm can benefit Juspay. Thank you for your time and consideration.
+
+Sincerely,
+
+Kushagra Singh

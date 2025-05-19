@@ -1,0 +1,31 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+
+[Date]
+
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juaspay
+
+
+[Company Address (if known)]
+
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Frontend Engineer position at Juaspay. As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to contribute my developing skills and passion for web development to your innovative team.
+
+My coursework has provided me with a strong foundation in programming languages like C, Java, and Python. I am particularly drawn to frontend development and am actively expanding my knowledge in relevant technologies. I'm confident in my ability to learn quickly and adapt to new challenges, a trait I've honed through projects like the Sign Language Detection System, which involved utilizing Python and machine learning principles.  My experience with cloud computing, including working with AWS and Kubernetes, further strengthens my technical skillset and aligns with the current industry trends.
+
+Furthermore, my internship at Technical Guftgu provided valuable practical experience in cloud technologies, Linux, and Ubuntu, reinforcing my understanding of server-side principles that complement frontend development.  I am a proactive learner, demonstrated by my completion of relevant online courses like "Innovation Through Design" and "SQL: A Practical Introduction for Querying Databases," as well as training in AWS Cloud Computing.
+
+Beyond my technical abilities, I possess strong problem-solving and management skills, gained through coordinating events like the 2-year Induction program for B.Tech (hons.) students and active participation in E-CELL. I am also a collaborative team player, evident from my involvement in group projects and extracurricular activities like Technex at IIT BHU.
+
+I am confident that my enthusiasm, combined with my growing technical skills and eagerness to learn, makes me a strong candidate for this position. I am eager to contribute to Juaspay's success and am excited about the opportunity to learn and grow within your dynamic environment.  Thank you for your time and consideration. I look forward to hearing from you soon.
+
+
+Sincerely,
+
+Kushagra Singh

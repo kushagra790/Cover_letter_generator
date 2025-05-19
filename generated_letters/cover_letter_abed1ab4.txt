@@ -1,0 +1,26 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juspay
+[Address (if known)]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Frontend Developer position at Juspay.  As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to apply my developing skills and passion for technology to contribute to your team.
+
+My coursework has provided me with a solid foundation in programming languages such as C, Java, and Python, which are directly applicable to frontend development. I am particularly drawn to the challenges and opportunities presented by creating user-friendly and engaging web experiences.  My project on the Sign Language Detection System using Python and machine learning demonstrates my ability to apply technical skills to develop innovative solutions. This project, alongside my Kubernetes and AWS Cloud Computing project, showcases my growing proficiency in cloud technologies and my dedication to creating robust and scalable applications.
+
+Through my internship with Technical Guftgu, I gained practical experience working with Cloud technologies, Linux, Ubuntu, and AWS, which has further enhanced my understanding of the technical infrastructure crucial for modern web applications.  My coursework in SQL and database management, supplemented by the Coursera course “SQL: A Practical Introduction for Querying Databases,” provides me with a solid foundation for working with data-driven web applications.
+
+Beyond my technical abilities, I possess strong problem-solving skills and a proactive approach to learning. I am a collaborative team player, as evidenced by my experience coordinating the 2-year induction program for B.Tech (Hons.) students and my active involvement in the E-CELL.
+
+I am confident that my skills and enthusiasm align perfectly with Juspay's innovative and dynamic environment. I am eager to learn from experienced professionals and contribute to the development of cutting-edge frontend solutions.  Thank you for your time and consideration. I have attached my resume for your review and welcome the opportunity to discuss my qualifications further in an interview.
+
+
+Sincerely,
+
+Kushagra Singh

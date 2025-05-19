@@ -1,0 +1,24 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juspay
+[Address (if known)]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Full Stack Developer position at Juspay. As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to contribute my developing skills and passion for technology to a dynamic and innovative company like yours.
+
+My coursework has provided me with a strong foundation in core programming languages like C, Java, and Python.  I am particularly drawn to the challenges and opportunities presented by full-stack development and have been actively expanding my knowledge in areas such as cloud computing (including AWS experience through my training with Technical Guftgu) and database management using SQL.  My project on Kubernetes, utilizing AWS, further demonstrates my practical experience with cloud technologies and system management.
+
+I am a quick learner, adept at problem-solving, and possess a strong work ethic. My experience coordinating the 2-year induction program for B.Tech (Hons.) students and my active involvement in E-CELL have honed my management and teamwork skills.  Furthermore, my project on Sign Language Detection, leveraging Python and machine learning, showcases my ability to apply technical skills to develop innovative solutions.
+
+I am confident that my skills and passion for technology align perfectly with Juspay's focus on innovation and cutting-edge solutions. I am eager to learn from experienced professionals and contribute to the success of your team.  I am available for an interview at your earliest convenience.
+
+Thank you for your time and consideration.
+
+Sincerely,
+KUSHAGRA SINGH

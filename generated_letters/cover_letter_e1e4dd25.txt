@@ -1,0 +1,25 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juspay
+[Juspay Address (if known)]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my enthusiastic interest in the Frontend Developer position at Juspay.  As a highly motivated and dedicated Computer Science Honours student at GLA University, I am eager to contribute my developing skills and passion for technology to your team.  My expected graduation in June 2026 provides me with a strong foundation in core computer science principles, and I am confident in my ability to quickly learn and adapt to new technologies and frameworks.
+
+While my academic focus provides a solid base, I've also sought practical experience through projects and training. My project on Sign Language Detection using Python and machine learning demonstrates my ability to apply technical skills to solve real-world problems. Furthermore, my experience with Kubernetes and AWS during my Cloud Computing project highlights my understanding of cloud-based infrastructure and deployment. My internship at Technical Guftgu provided valuable hands-on experience with Cloud, Linux, Ubuntu, and AWS, solidifying my interest in cloud technologies and further developing my technical proficiency.
+
+I am particularly drawn to Juspay's innovative work in the payments industry and I believe my skills in [mention specific frontend skills like HTML, CSS, JavaScript, or any frameworks you know – tailor this to the specific job description if possible] would be a valuable asset to your team. I am a quick learner, possess strong problem-solving abilities, and am eager to contribute to a dynamic and challenging environment.  
+
+My coursework has equipped me with a solid understanding of data structures, algorithms, and database management using SQL. Coupled with my passion for continuous learning, evidenced by my completion of courses on Innovation Through Design and SQL through Coursera, as well as AWS training through Technical Guftgu, I am confident in my ability to rapidly acquire new skills and contribute meaningfully to Juspay.
+
+Thank you for your time and consideration.  I have attached my resume for your review and welcome the opportunity to discuss my qualifications further in an interview.
+
+Sincerely,
+
+Kushagra Singh

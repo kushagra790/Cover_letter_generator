@@ -1,0 +1,27 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+
+[Date]
+
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+[Company Name]
+[Company Address]
+
+
+Dear [Mr./Ms./Mx. Hiring Manager Last Name or Hiring Team],
+
+I am writing to express my strong interest in the Frontend Developer position at [Company Name].  As a highly motivated and dedicated computer science student at GLA University pursuing a Bachelor of Technology with Honours, I am eager to apply my growing skillset and contribute to a dynamic team.
+
+My coursework has provided me with a solid foundation in programming languages like C, Java, and Python, which are crucial for frontend development. I am particularly drawn to the challenges and creativity involved in building user-friendly and visually appealing web interfaces. My project experience, including the development of a Sign Language Detection System using Python and Machine Learning, demonstrates my ability to apply technical skills to solve real-world problems.
+
+I am a quick learner and adaptable to new technologies, evidenced by my completion of courses in SQL database querying and cloud computing on platforms like AWS. My experience with Kubernetes further highlights my understanding of cloud-based infrastructure and its application in modern software development.
+
+Beyond technical skills, I possess strong problem-solving and management abilities honed through my involvement in various co-curricular activities.  My experience coordinating the 2-year induction program for B.Tech (Hons.) students and actively participating in E-CELL has developed my organizational and leadership capabilities.
+
+I am eager to learn more about this opportunity and discuss how my skills and enthusiasm can benefit [Company Name]. Thank you for your time and consideration.
+
+Sincerely,
+Kushagra Singh

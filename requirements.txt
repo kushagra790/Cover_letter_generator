@@ -1,0 +1,9 @@
+Flask==2.3.2
+python-dotenv==1.0.0
+google-generativeai==0.1.0
+PyPDF2
+python-docx
+PyMuPDF==1.22.5
+Flask-Login==0.6.2
+Werkzeug==2.2.3
+Flask-Bcrypt==1.0.1

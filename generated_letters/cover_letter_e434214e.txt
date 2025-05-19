@@ -1,0 +1,28 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+[Company Name]
+[Company Address]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Frontend Developer position at [Company Name].  As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to apply my developing skills and contribute to a dynamic team.
+
+While my background may primarily appear focused on back-end technologies like Cloud Computing and Machine Learning, I have a strong foundation in core programming concepts through my experience with C, Java, and Python.  I am confident in my ability to quickly learn and adapt to front-end technologies, and I am particularly drawn to the challenges and creative possibilities inherent in frontend development.  My project experience, including the development of a Sign Language Detection System using Python and Machine Learning, demonstrates my ability to tackle complex problems and develop innovative solutions.
+
+My coursework has provided me with a solid understanding of data structures, algorithms, and database management, which I believe are valuable assets in frontend development. I am a quick learner and am eager to expand my skillset to include the latest front-end frameworks and libraries.  Furthermore, my involvement in extracurricular activities, such as coordinating the 2-year induction program and participating in Technex (IIT BHU), has honed my organizational, communication, and teamwork skills.
+
+I am particularly drawn to [Company Name] because of [mention something specific about the company that interests you - their mission, their work culture, a recent project, etc.]. I am confident that my eagerness to learn, coupled with my existing technical foundation, makes me a strong candidate for this role.
+
+Thank you for your time and consideration.  I look forward to hearing from you soon.
+
+
+Sincerely,
+Kushagra Singh

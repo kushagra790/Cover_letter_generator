@@ -1,0 +1,24 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+Juspay
+[Address (if known)]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Frontend Developer position at Juspay.  As a highly motivated and enthusiastic Computer Science Honours student at GLA University, I am eager to apply my developing skills and passion for technology to contribute to your team.
+
+My coursework has provided me with a strong foundation in programming languages such as C, Java, and Python. I am particularly drawn to frontend development and am actively expanding my knowledge and skills in relevant technologies.  I am confident in my ability to learn quickly and adapt to new challenges, which I believe are essential qualities for success in this dynamic field.
+
+My project experience, including the development of a Sign Language Detection System using Python and machine learning, demonstrates my ability to apply technical skills to solve real-world problems.  This project, along with my work on a Kubernetes project involving AWS and cloud computing, has honed my problem-solving abilities and provided valuable experience working with different technologies.  My internship at Technical Guftgu further solidified my understanding of cloud technologies, including AWS, Linux, and Ubuntu.
+
+Beyond my technical skills, I possess strong problem-solving, management, and communication skills.  My involvement in extracurricular activities, including coordinating a two-year induction program and active participation in E-CELL, has further developed my leadership and teamwork abilities.
+
+I am eager to learn more about this opportunity and how my skills and enthusiasm can benefit Juspay. Thank you for your time and consideration.
+
+Sincerely,
+Kushagra Singh

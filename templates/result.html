@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generated Cover Letter</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">Your Generated Cover Letter</h1>
+        <div class="cover-letter">
+            <h2>Cover Letter:</h2>
+            <pre>{{ cover_letter }}</pre>
+        </div>
+
+        <!-- Buttons Section -->
+        <div class="button-group">
+            <form method="POST" action="{{ url_for('get_feedback_page') }}">
+                <input type="hidden" name="cover_letter" value="{{ cover_letter }}">
+                <button type="submit" class="btn">View AI Feedback</button>
+            </form>
+            <a href="{{ download_link }}" download>
+                <button type="button" class="btn">Download Cover Letter</button>
+            </a>
+            <a href="{{ url_for('index') }}">
+                <button type="button" class="btn">Go Back</button>
+            </a>
+        </div>
+
+        <!-- Feedback Section -->
+        {% if feedback %}
+        <div class="feedback">
+            <h2>AI Feedback:</h2>
+            <pre>{{ feedback }}</pre>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>

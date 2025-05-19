@@ -1,0 +1,26 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+
+[Hiring Manager Name (if available), or "Hiring Team"]
+[Company Name]
+[Company Address]
+
+
+Dear [Hiring Manager Name or Hiring Team],
+
+I am writing to express my enthusiastic interest in the Frontend Developer position at [Company Name].  As a highly motivated and dedicated computer science student pursuing my Bachelor of Technology at GLA University, I am eager to contribute my developing skills and passion for creating engaging user experiences to your team.
+
+While my academic focus is broad, I have been actively pursuing opportunities to enhance my frontend development capabilities.  My coursework has provided me with a solid foundation in programming languages such as C, Java, and Python, and I am keen to apply this knowledge to build dynamic and user-friendly web interfaces. I am a quick learner and am eager to expand my skillset in areas specific to frontend technologies.
+
+My project experience, particularly in developing the Sign Language Detection System using Python and machine learning principles, demonstrates my ability to tackle complex challenges and develop innovative solutions. This project required a deep understanding of user interaction and data visualization, skills that I believe are highly transferable to frontend development.  Furthermore, my involvement in the Kubernetes project using AWS has exposed me to cloud computing environments and the importance of scalable and robust systems, which are crucial considerations in modern web development.
+
+My extracurricular activities, including coordinating the induction program for B.Tech students and actively participating in E-CELL, highlight my leadership potential and collaborative spirit. I am confident that these experiences have prepared me to work effectively within a team and contribute to a positive and productive work environment.
+
+I am eager to learn from experienced professionals and contribute to a dynamic team. Thank you for your time and consideration. I look forward to the opportunity to discuss my qualifications further in an interview.
+
+
+Sincerely,
+
+Kushagra Singh

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate Cover Letter</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Generate Your Cover Letter</h1>
+        <form method="POST" action="{{ url_for('generate_cover_letter_route') }}" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="resume">Upload Resume:</label>
+                <input type="file" name="resume" id="resume" required>
+            </div>
+            <div class="form-group">
+                <label for="job_description">Job Description:</label>
+                <textarea name="job_description" id="job_description" placeholder="Type the job description here..."></textarea>
+            </div>
+            <div class="form-group">
+                <label for="job_description_file">Or Upload Job Description File (TXT or PDF):</label>
+                <input type="file" name="job_description_file" id="job_description_file" accept=".txt,.pdf">
+            </div>
+            <div class="form-group">
+                <label for="tone">Tone:</label>
+                <select name="tone" id="tone">
+                    <option value="professional">Professional</option>
+                    <option value="casual">Casual</option>
+                </select>
+            </div>
+            <button type="submit" class="btn">Generate Cover Letter</button>
+        </form>
+    </div>
+</body>
+</html>
+

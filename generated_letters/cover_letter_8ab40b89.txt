@@ -1,0 +1,26 @@
+KUSHAGRA SINGH
+Kanpur, +91 7905366063
+kushagra.singh_cs.h22@gla.ac.in
+
+
+[Date]
+
+[Hiring Manager Name (if known), or "Hiring Team"]
+[Company Name]
+[Company Address]
+
+Dear [Hiring Manager or Hiring Team],
+
+I am writing to express my keen interest in the Frontend Developer position at [Company Name].  As a highly motivated and dedicated Computer Science Honours student at GLA University, I am eager to apply my developing skills and passion for technology to a challenging and rewarding role in frontend development.
+
+My coursework has provided me with a strong foundation in programming languages like C, Java, and Python.  I am particularly drawn to the creative aspects of frontend development and am actively expanding my skillset in relevant technologies.  I am confident in my ability to learn quickly and adapt to new challenges, which I believe is essential in the ever-evolving field of web development.
+
+My project experience, including the development of a Sign Language Detection System using Python and machine learning, has honed my problem-solving skills and provided me with practical experience in developing complex applications. While this project focused on backend logic, it solidified my understanding of software development principles that are applicable to frontend work.  Furthermore, my experience with cloud computing, including AWS and Kubernetes, gives me valuable insight into the broader technological landscape.
+
+My participation in extracurricular activities, such as coordinating the 2-year induction program for B.Tech (Hons.) students and my active involvement in the E-CELL, demonstrates my leadership abilities, teamwork skills, and commitment to continuous learning. I am eager to contribute these skills to a collaborative and innovative team environment like the one at [Company Name].
+
+I am eager to learn more about this opportunity and discuss how my skills and enthusiasm can benefit your team.  Thank you for your time and consideration.
+
+Sincerely,
+
+Kushagra Singh
